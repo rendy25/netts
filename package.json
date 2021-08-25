@@ -1,0 +1,25 @@
+{
+  "name": "birthday",
+  "version": "1.0.0",
+  "description": "Birthday greetings..",
+  "main": " ",
+  "scripts": {
+    "server-node": "http-server -p 8081"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rendy25/netts.git"
+  },
+  "keywords": [
+    "Birthday"
+  ],
+  "author": "Rendy",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/rendy25/netts/issues"
+  },
+  "homepage": "https://github.com/rendy25/netts#readme",
+  "dependencies": {
+    "http-server": "^13.0.1"
+  }
+}
